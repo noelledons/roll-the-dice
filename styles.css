@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+}
+
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+/* body {
+} */
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  text-shadow: 5px 0 #A42929;
+  font-size: 6rem;
+  text-transform: uppercase;
+  color: #91091e;
+  margin-bottom: 40px;
+}
+
+p {
+  font-size: 2rem;
+  color: #91091e;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+img {
+  width: 80%;
+}
+
+.butn {
+  background: #C60E0E;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 400;
+  border-radius: 7px;
+  color: #ffff;
+  font-size: 20px;
+  padding: 5px 20px;
+  text-decoration: none;
+  margin-top: 60px;
+  border: 1px solid #D83C3C;
+}
+
+.butn:hover {
+  background: #D83C3C;
+  text-decoration: none;
+}
