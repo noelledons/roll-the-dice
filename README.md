@@ -1,4 +1,4 @@
-# roll-the-dice
+# Roll the Dice :game_die:
 Two player dice game - Players click the button for dice to roll randomly. The user with the largest dice value wins. 
 <br>
 <br>
